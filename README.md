@@ -50,16 +50,6 @@ This repository contains MySQL solutions for various LeetCode problems. I am sol
 - 🟡 **Medium** – Queries requiring joins, subqueries, and aggregations
 - 🔴 **Hard** – Complex queries with advanced SQL concepts
 
-## How to Use This Repository
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/mysql-leetcode-solutions.git
-   ```
-2. Navigate to the repository:
-   ```sh
-   cd mysql-leetcode-solutions
-   ```
-3. Browse the solutions by topic or difficulty level.
 
 ## Contributions
 Feel free to fork this repository and contribute by adding more optimized solutions or different approaches.
